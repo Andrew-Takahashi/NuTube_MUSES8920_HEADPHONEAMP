@@ -1,6 +1,6 @@
 # NuTube_MUSES8920_HEADPHONEAMP
 
-##Version 2 updated
+## Version 2 updated
 
 Version 1の配線ミスを修正し，オペアンプを両電源化．
 
@@ -16,7 +16,7 @@ Version 1の配線ミスを修正し，オペアンプを両電源化．
 
 まだ動作確認してないので自己責任でどうぞ．
 
-##Version 1
+## Version 1
 
 名前の通りNuTubeとMUSES8920を使ったヘッドホンアンプ．
 現状ではNuTubeの配線を間違えているので修正予定．
